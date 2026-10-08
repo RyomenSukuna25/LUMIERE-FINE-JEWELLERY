@@ -1,0 +1,1921 @@
+{
+ "products": [
+  {
+   "id": "LM1001",
+   "slug": "celeste-diamond-ring",
+   "name": "Celeste Diamond Ring",
+   "category": "Rings",
+   "collection": "diamond",
+   "collections": [
+    "rings",
+    "diamond"
+   ],
+   "price": 52999,
+   "compareAtPrice": 68000,
+   "description": "A brilliant centre stone held in a delicate halo, set on a hand-finished rose gold band.",
+   "material": "18K Rose Gold",
+   "metal": "rose",
+   "stone": "Diamonds",
+   "stoneKind": "diamond",
+   "style": "halo",
+   "sizes": [
+    "12",
+    "14",
+    "16",
+    "18",
+    "20"
+   ],
+   "availability": "in-stock",
+   "stock": 4,
+   "rating": 4.5,
+   "reviews": 18,
+   "featured": true,
+   "newArrival": false,
+   "bestseller": true,
+   "views": [
+    {
+     "key": "main",
+     "label": "Studio view",
+     "bg": "sand",
+     "file": "celeste-diamond-ring-1"
+    },
+    {
+     "key": "macro",
+     "label": "Close detail",
+     "bg": "stone",
+     "file": "celeste-diamond-ring-2"
+    },
+    {
+     "key": "flat",
+     "label": "Styled flat lay",
+     "bg": "ivory",
+     "file": "celeste-diamond-ring-3"
+    }
+   ]
+  },
+  {
+   "id": "LM1002",
+   "slug": "aurelia-solitaire-ring",
+   "name": "Aurelia Solitaire Ring",
+   "category": "Rings",
+   "collection": "diamond",
+   "collections": [
+    "rings",
+    "diamond",
+    "gold"
+   ],
+   "price": 124000,
+   "compareAtPrice": null,
+   "description": "One stone, nothing else. A six-prong solitaire cut to catch light from every angle.",
+   "material": "18K Yellow Gold",
+   "metal": "yellow",
+   "stone": "Diamonds",
+   "stoneKind": "diamond",
+   "style": "solitaire",
+   "sizes": [
+    "12",
+    "14",
+    "16",
+    "18",
+    "20"
+   ],
+   "availability": "in-stock",
+   "stock": 11,
+   "rating": 4.8,
+   "reviews": 55,
+   "featured": true,
+   "newArrival": false,
+   "bestseller": false,
+   "views": [
+    {
+     "key": "main",
+     "label": "Studio view",
+     "bg": "noir",
+     "file": "aurelia-solitaire-ring-1"
+    },
+    {
+     "key": "macro",
+     "label": "Close detail",
+     "bg": "sand",
+     "file": "aurelia-solitaire-ring-2"
+    },
+    {
+     "key": "flat",
+     "label": "Styled flat lay",
+     "bg": "silk",
+     "file": "aurelia-solitaire-ring-3"
+    }
+   ]
+  },
+  {
+   "id": "LM1003",
+   "slug": "elan-gold-band",
+   "name": "Élan Gold Band",
+   "category": "Rings",
+   "collection": "gold",
+   "collections": [
+    "rings",
+    "gold"
+   ],
+   "price": 28500,
+   "compareAtPrice": null,
+   "description": "A sculpted band in polished yellow gold, made to be worn every day and kept for decades.",
+   "material": "18K Yellow Gold",
+   "metal": "yellow",
+   "stone": "Polished gold",
+   "stoneKind": "none",
+   "style": "band",
+   "sizes": [
+    "12",
+    "14",
+    "16",
+    "18",
+    "20"
+   ],
+   "availability": "in-stock",
+   "stock": 4,
+   "rating": 4.6,
+   "reviews": 92,
+   "featured": false,
+   "newArrival": false,
+   "bestseller": true,
+   "views": [
+    {
+     "key": "main",
+     "label": "Studio view",
+     "bg": "ivory",
+     "file": "elan-gold-band-1"
+    },
+    {
+     "key": "macro",
+     "label": "Close detail",
+     "bg": "sand",
+     "file": "elan-gold-band-2"
+    },
+    {
+     "key": "flat",
+     "label": "Styled flat lay",
+     "bg": "blush",
+     "file": "elan-gold-band-3"
+    }
+   ]
+  },
+  {
+   "id": "LM1004",
+   "slug": "seraphine-trilogy-ring",
+   "name": "Seraphine Trilogy Ring",
+   "category": "Rings",
+   "collection": "diamond",
+   "collections": [
+    "rings",
+    "diamond",
+    "new-arrivals"
+   ],
+   "price": 86500,
+   "compareAtPrice": null,
+   "description": "Three diamonds for the past, the present and the part still to come.",
+   "material": "18K White Gold",
+   "metal": "white",
+   "stone": "Diamonds",
+   "stoneKind": "diamond",
+   "style": "trilogy",
+   "sizes": [
+    "12",
+    "14",
+    "16",
+    "18",
+    "20"
+   ],
+   "availability": "in-stock",
+   "stock": 11,
+   "rating": 4.9,
+   "reviews": 129,
+   "featured": false,
+   "newArrival": true,
+   "bestseller": false,
+   "views": [
+    {
+     "key": "main",
+     "label": "Studio view",
+     "bg": "stone",
+     "file": "seraphine-trilogy-ring-1"
+    },
+    {
+     "key": "macro",
+     "label": "Close detail",
+     "bg": "noir",
+     "file": "seraphine-trilogy-ring-2"
+    },
+    {
+     "key": "flat",
+     "label": "Styled flat lay",
+     "bg": "ivory",
+     "file": "seraphine-trilogy-ring-3"
+    }
+   ]
+  },
+  {
+   "id": "LM1005",
+   "slug": "noor-emerald-ring",
+   "name": "Noor Emerald Ring",
+   "category": "Rings",
+   "collection": "gold",
+   "collections": [
+    "rings",
+    "gold"
+   ],
+   "price": 98000,
+   "compareAtPrice": 112000,
+   "description": "A deep green emerald encircled by diamonds, in warm yellow gold.",
+   "material": "18K Yellow Gold",
+   "metal": "yellow",
+   "stone": "Emerald",
+   "stoneKind": "emerald",
+   "style": "halo",
+   "sizes": [
+    "12",
+    "14",
+    "16",
+    "18",
+    "20"
+   ],
+   "availability": "in-stock",
+   "stock": 4,
+   "rating": 4.7,
+   "reviews": 166,
+   "featured": true,
+   "newArrival": false,
+   "bestseller": false,
+   "views": [
+    {
+     "key": "main",
+     "label": "Studio view",
+     "bg": "noir",
+     "file": "noor-emerald-ring-1"
+    },
+    {
+     "key": "macro",
+     "label": "Close detail",
+     "bg": "sand",
+     "file": "noor-emerald-ring-2"
+    },
+    {
+     "key": "flat",
+     "label": "Styled flat lay",
+     "bg": "silk",
+     "file": "noor-emerald-ring-3"
+    }
+   ]
+  },
+  {
+   "id": "LM1006",
+   "slug": "vesper-pave-band",
+   "name": "Vesper Pavé Band",
+   "category": "Rings",
+   "collection": "diamond",
+   "collections": [
+    "rings",
+    "diamond",
+    "new-arrivals"
+   ],
+   "price": 46500,
+   "compareAtPrice": null,
+   "description": "A slim band with pavé diamonds set by hand along its crown.",
+   "material": "18K Rose Gold",
+   "metal": "rose",
+   "stone": "Diamonds",
+   "stoneKind": "diamond",
+   "style": "pave",
+   "sizes": [
+    "12",
+    "14",
+    "16",
+    "18",
+    "20"
+   ],
+   "availability": "in-stock",
+   "stock": 11,
+   "rating": 4.5,
+   "reviews": 43,
+   "featured": false,
+   "newArrival": true,
+   "bestseller": false,
+   "views": [
+    {
+     "key": "main",
+     "label": "Studio view",
+     "bg": "blush",
+     "file": "vesper-pave-band-1"
+    },
+    {
+     "key": "macro",
+     "label": "Close detail",
+     "bg": "ivory",
+     "file": "vesper-pave-band-2"
+    },
+    {
+     "key": "flat",
+     "label": "Styled flat lay",
+     "bg": "silk",
+     "file": "vesper-pave-band-3"
+    }
+   ]
+  },
+  {
+   "id": "LM1007",
+   "slug": "isolde-sapphire-ring",
+   "name": "Isolde Sapphire Ring",
+   "category": "Rings",
+   "collection": "new-arrivals",
+   "collections": [
+    "rings",
+    "new-arrivals"
+   ],
+   "price": 112000,
+   "compareAtPrice": null,
+   "description": "An oval blue sapphire in a minimal white gold setting.",
+   "material": "18K White Gold",
+   "metal": "white",
+   "stone": "Blue Sapphire",
+   "stoneKind": "sapphire",
+   "style": "solitaire-oval",
+   "sizes": [
+    "12",
+    "14",
+    "16",
+    "18",
+    "20"
+   ],
+   "availability": "in-stock",
+   "stock": 4,
+   "rating": 4.8,
+   "reviews": 80,
+   "featured": false,
+   "newArrival": true,
+   "bestseller": false,
+   "views": [
+    {
+     "key": "main",
+     "label": "Studio view",
+     "bg": "stone",
+     "file": "isolde-sapphire-ring-1"
+    },
+    {
+     "key": "macro",
+     "label": "Close detail",
+     "bg": "noir",
+     "file": "isolde-sapphire-ring-2"
+    },
+    {
+     "key": "flat",
+     "label": "Styled flat lay",
+     "bg": "ivory",
+     "file": "isolde-sapphire-ring-3"
+    }
+   ]
+  },
+  {
+   "id": "LM1008",
+   "slug": "marguerite-cluster-ring",
+   "name": "Marguerite Cluster Ring",
+   "category": "Rings",
+   "collection": "rings",
+   "collections": [
+    "rings"
+   ],
+   "price": 61000,
+   "compareAtPrice": null,
+   "description": "A soft pink morganite surrounded by petals of diamond.",
+   "material": "18K Rose Gold",
+   "metal": "rose",
+   "stone": "Morganite",
+   "stoneKind": "morganite",
+   "style": "cluster",
+   "sizes": [
+    "12",
+    "14",
+    "16",
+    "18",
+    "20"
+   ],
+   "availability": "low-stock",
+   "stock": 2,
+   "rating": 4.6,
+   "reviews": 117,
+   "featured": false,
+   "newArrival": false,
+   "bestseller": false,
+   "views": [
+    {
+     "key": "main",
+     "label": "Studio view",
+     "bg": "blush",
+     "file": "marguerite-cluster-ring-1"
+    },
+    {
+     "key": "macro",
+     "label": "Close detail",
+     "bg": "ivory",
+     "file": "marguerite-cluster-ring-2"
+    },
+    {
+     "key": "flat",
+     "label": "Styled flat lay",
+     "bg": "silk",
+     "file": "marguerite-cluster-ring-3"
+    }
+   ]
+  },
+  {
+   "id": "LM1009",
+   "slug": "opaline-eternity-band",
+   "name": "Opaline Eternity Band",
+   "category": "Rings",
+   "collection": "diamond",
+   "collections": [
+    "rings",
+    "diamond"
+   ],
+   "price": 78000,
+   "compareAtPrice": null,
+   "description": "Diamonds all the way around, so the line of light never ends.",
+   "material": "18K White Gold",
+   "metal": "white",
+   "stone": "Diamonds",
+   "stoneKind": "diamond",
+   "style": "eternity",
+   "sizes": [
+    "12",
+    "14",
+    "16",
+    "18",
+    "20"
+   ],
+   "availability": "in-stock",
+   "stock": 4,
+   "rating": 4.9,
+   "reviews": 154,
+   "featured": false,
+   "newArrival": false,
+   "bestseller": true,
+   "views": [
+    {
+     "key": "main",
+     "label": "Studio view",
+     "bg": "ivory",
+     "file": "opaline-eternity-band-1"
+    },
+    {
+     "key": "macro",
+     "label": "Close detail",
+     "bg": "sand",
+     "file": "opaline-eternity-band-2"
+    },
+    {
+     "key": "flat",
+     "label": "Styled flat lay",
+     "bg": "blush",
+     "file": "opaline-eternity-band-3"
+    }
+   ]
+  },
+  {
+   "id": "LM1010",
+   "slug": "ruhi-ruby-ring",
+   "name": "Ruhi Ruby Ring",
+   "category": "Rings",
+   "collection": "gold",
+   "collections": [
+    "rings",
+    "gold"
+   ],
+   "price": 89500,
+   "compareAtPrice": null,
+   "description": "A deep red ruby with a diamond halo, in polished yellow gold.",
+   "material": "18K Yellow Gold",
+   "metal": "yellow",
+   "stone": "Ruby",
+   "stoneKind": "ruby",
+   "style": "halo",
+   "sizes": [
+    "12",
+    "14",
+    "16",
+    "18",
+    "20"
+   ],
+   "availability": "in-stock",
+   "stock": 11,
+   "rating": 4.7,
+   "reviews": 31,
+   "featured": false,
+   "newArrival": false,
+   "bestseller": false,
+   "views": [
+    {
+     "key": "main",
+     "label": "Studio view",
+     "bg": "noir",
+     "file": "ruhi-ruby-ring-1"
+    },
+    {
+     "key": "macro",
+     "label": "Close detail",
+     "bg": "sand",
+     "file": "ruhi-ruby-ring-2"
+    },
+    {
+     "key": "flat",
+     "label": "Styled flat lay",
+     "bg": "silk",
+     "file": "ruhi-ruby-ring-3"
+    }
+   ]
+  },
+  {
+   "id": "LM1011",
+   "slug": "lumiere-heritage-necklace",
+   "name": "Lumière Heritage Necklace",
+   "category": "Necklaces",
+   "collection": "diamond",
+   "collections": [
+    "necklaces",
+    "diamond",
+    "gold"
+   ],
+   "price": 168000,
+   "compareAtPrice": null,
+   "description": "Graduated diamond stations on a fine gold chain, drawn from our archive of heirloom designs.",
+   "material": "18K Yellow Gold",
+   "metal": "yellow",
+   "stone": "Diamonds",
+   "stoneKind": "diamond",
+   "style": "station",
+   "sizes": [
+    "One size"
+   ],
+   "availability": "in-stock",
+   "stock": 4,
+   "rating": 4.5,
+   "reviews": 68,
+   "featured": true,
+   "newArrival": false,
+   "bestseller": false,
+   "views": [
+    {
+     "key": "main",
+     "label": "Studio view",
+     "bg": "noir",
+     "file": "lumiere-heritage-necklace-1"
+    },
+    {
+     "key": "macro",
+     "label": "Close detail",
+     "bg": "sand",
+     "file": "lumiere-heritage-necklace-2"
+    },
+    {
+     "key": "flat",
+     "label": "Styled flat lay",
+     "bg": "silk",
+     "file": "lumiere-heritage-necklace-3"
+    }
+   ]
+  },
+  {
+   "id": "LM1012",
+   "slug": "mirage-station-necklace",
+   "name": "Mirage Station Necklace",
+   "category": "Necklaces",
+   "collection": "diamond",
+   "collections": [
+    "necklaces",
+    "diamond",
+    "new-arrivals"
+   ],
+   "price": 74000,
+   "compareAtPrice": null,
+   "description": "Diamonds float along a rose gold chain, light enough for every day.",
+   "material": "18K Rose Gold",
+   "metal": "rose",
+   "stone": "Diamonds",
+   "stoneKind": "diamond",
+   "style": "station",
+   "sizes": [
+    "One size"
+   ],
+   "availability": "in-stock",
+   "stock": 11,
+   "rating": 4.8,
+   "reviews": 105,
+   "featured": false,
+   "newArrival": true,
+   "bestseller": true,
+   "views": [
+    {
+     "key": "main",
+     "label": "Studio view",
+     "bg": "sand",
+     "file": "mirage-station-necklace-1"
+    },
+    {
+     "key": "macro",
+     "label": "Close detail",
+     "bg": "stone",
+     "file": "mirage-station-necklace-2"
+    },
+    {
+     "key": "flat",
+     "label": "Styled flat lay",
+     "bg": "ivory",
+     "file": "mirage-station-necklace-3"
+    }
+   ]
+  },
+  {
+   "id": "LM1013",
+   "slug": "aanya-bridal-collar",
+   "name": "Aanya Bridal Collar",
+   "category": "Necklaces",
+   "collection": "bridal",
+   "collections": [
+    "necklaces",
+    "bridal",
+    "diamond",
+    "gold"
+   ],
+   "price": 245000,
+   "compareAtPrice": null,
+   "description": "A collar of pavé diamonds finished with graduated drops, made for the day itself.",
+   "material": "18K Yellow Gold",
+   "metal": "yellow",
+   "stone": "Diamonds",
+   "stoneKind": "diamond",
+   "style": "collar",
+   "sizes": [
+    "One size"
+   ],
+   "availability": "in-stock",
+   "stock": 4,
+   "rating": 4.6,
+   "reviews": 142,
+   "featured": true,
+   "newArrival": false,
+   "bestseller": false,
+   "views": [
+    {
+     "key": "main",
+     "label": "Studio view",
+     "bg": "noir",
+     "file": "aanya-bridal-collar-1"
+    },
+    {
+     "key": "macro",
+     "label": "Close detail",
+     "bg": "sand",
+     "file": "aanya-bridal-collar-2"
+    },
+    {
+     "key": "flat",
+     "label": "Styled flat lay",
+     "bg": "silk",
+     "file": "aanya-bridal-collar-3"
+    }
+   ]
+  },
+  {
+   "id": "LM1014",
+   "slug": "zara-emerald-drop-necklace",
+   "name": "Zara Emerald Drop Necklace",
+   "category": "Necklaces",
+   "collection": "bridal",
+   "collections": [
+    "necklaces",
+    "bridal",
+    "gold"
+   ],
+   "price": 198000,
+   "compareAtPrice": null,
+   "description": "Emerald drops hang from a diamond-set collar in yellow gold.",
+   "material": "18K Yellow Gold",
+   "metal": "yellow",
+   "stone": "Emerald",
+   "stoneKind": "emerald",
+   "style": "collar",
+   "sizes": [
+    "One size"
+   ],
+   "availability": "in-stock",
+   "stock": 11,
+   "rating": 4.9,
+   "reviews": 19,
+   "featured": false,
+   "newArrival": false,
+   "bestseller": false,
+   "views": [
+    {
+     "key": "main",
+     "label": "Studio view",
+     "bg": "noir",
+     "file": "zara-emerald-drop-necklace-1"
+    },
+    {
+     "key": "macro",
+     "label": "Close detail",
+     "bg": "sand",
+     "file": "zara-emerald-drop-necklace-2"
+    },
+    {
+     "key": "flat",
+     "label": "Styled flat lay",
+     "bg": "silk",
+     "file": "zara-emerald-drop-necklace-3"
+    }
+   ]
+  },
+  {
+   "id": "LM1015",
+   "slug": "soleil-riviere-necklace",
+   "name": "Soleil Rivière Necklace",
+   "category": "Necklaces",
+   "collection": "diamond",
+   "collections": [
+    "necklaces",
+    "diamond"
+   ],
+   "price": 142000,
+   "compareAtPrice": null,
+   "description": "A continuous line of graduated diamonds in white gold.",
+   "material": "18K White Gold",
+   "metal": "white",
+   "stone": "Diamonds",
+   "stoneKind": "diamond",
+   "style": "riviere",
+   "sizes": [
+    "One size"
+   ],
+   "availability": "in-stock",
+   "stock": 4,
+   "rating": 4.7,
+   "reviews": 56,
+   "featured": false,
+   "newArrival": false,
+   "bestseller": false,
+   "views": [
+    {
+     "key": "main",
+     "label": "Studio view",
+     "bg": "stone",
+     "file": "soleil-riviere-necklace-1"
+    },
+    {
+     "key": "macro",
+     "label": "Close detail",
+     "bg": "noir",
+     "file": "soleil-riviere-necklace-2"
+    },
+    {
+     "key": "flat",
+     "label": "Styled flat lay",
+     "bg": "ivory",
+     "file": "soleil-riviere-necklace-3"
+    }
+   ]
+  },
+  {
+   "id": "LM1016",
+   "slug": "etoile-solitaire-pendant",
+   "name": "Étoile Solitaire Pendant",
+   "category": "Pendants",
+   "collection": "diamond",
+   "collections": [
+    "pendants",
+    "diamond"
+   ],
+   "price": 38999,
+   "compareAtPrice": null,
+   "description": "A single diamond on a slim white gold chain.",
+   "material": "18K White Gold",
+   "metal": "white",
+   "stone": "Diamonds",
+   "stoneKind": "diamond",
+   "style": "pendant",
+   "sizes": [
+    "One size"
+   ],
+   "availability": "in-stock",
+   "stock": 11,
+   "rating": 4.5,
+   "reviews": 93,
+   "featured": false,
+   "newArrival": false,
+   "bestseller": true,
+   "views": [
+    {
+     "key": "main",
+     "label": "Studio view",
+     "bg": "ivory",
+     "file": "etoile-solitaire-pendant-1"
+    },
+    {
+     "key": "macro",
+     "label": "Close detail",
+     "bg": "sand",
+     "file": "etoile-solitaire-pendant-2"
+    },
+    {
+     "key": "flat",
+     "label": "Styled flat lay",
+     "bg": "blush",
+     "file": "etoile-solitaire-pendant-3"
+    }
+   ]
+  },
+  {
+   "id": "LM1017",
+   "slug": "anika-emerald-pendant",
+   "name": "Anika Emerald Pendant",
+   "category": "Pendants",
+   "collection": "gold",
+   "collections": [
+    "pendants",
+    "gold",
+    "new-arrivals"
+   ],
+   "price": 32900,
+   "compareAtPrice": null,
+   "description": "A rich emerald in a polished gold bezel.",
+   "material": "18K Yellow Gold",
+   "metal": "yellow",
+   "stone": "Emerald",
+   "stoneKind": "emerald",
+   "style": "pendant",
+   "sizes": [
+    "One size"
+   ],
+   "availability": "in-stock",
+   "stock": 4,
+   "rating": 4.8,
+   "reviews": 130,
+   "featured": false,
+   "newArrival": true,
+   "bestseller": false,
+   "views": [
+    {
+     "key": "main",
+     "label": "Studio view",
+     "bg": "noir",
+     "file": "anika-emerald-pendant-1"
+    },
+    {
+     "key": "macro",
+     "label": "Close detail",
+     "bg": "sand",
+     "file": "anika-emerald-pendant-2"
+    },
+    {
+     "key": "flat",
+     "label": "Styled flat lay",
+     "bg": "silk",
+     "file": "anika-emerald-pendant-3"
+    }
+   ]
+  },
+  {
+   "id": "LM1018",
+   "slug": "luna-pearl-pendant",
+   "name": "Luna Pearl Pendant",
+   "category": "Pendants",
+   "collection": "gold",
+   "collections": [
+    "pendants",
+    "gold"
+   ],
+   "price": 21500,
+   "compareAtPrice": null,
+   "description": "A cultured pearl, warm and luminous, on a fine gold chain.",
+   "material": "18K Yellow Gold",
+   "metal": "yellow",
+   "stone": "Cultured Pearl",
+   "stoneKind": "pearl",
+   "style": "pendant",
+   "sizes": [
+    "One size"
+   ],
+   "availability": "in-stock",
+   "stock": 11,
+   "rating": 4.6,
+   "reviews": 167,
+   "featured": false,
+   "newArrival": false,
+   "bestseller": false,
+   "views": [
+    {
+     "key": "main",
+     "label": "Studio view",
+     "bg": "sand",
+     "file": "luna-pearl-pendant-1"
+    },
+    {
+     "key": "macro",
+     "label": "Close detail",
+     "bg": "stone",
+     "file": "luna-pearl-pendant-2"
+    },
+    {
+     "key": "flat",
+     "label": "Styled flat lay",
+     "bg": "ivory",
+     "file": "luna-pearl-pendant-3"
+    }
+   ]
+  },
+  {
+   "id": "LM1019",
+   "slug": "seraphine-drop-earrings",
+   "name": "Seraphine Drop Earrings",
+   "category": "Earrings",
+   "collection": "diamond",
+   "collections": [
+    "earrings",
+    "diamond",
+    "gold"
+   ],
+   "price": 62000,
+   "compareAtPrice": null,
+   "description": "Pear-cut diamonds that move with you, hung from a diamond stud.",
+   "material": "18K Yellow Gold",
+   "metal": "yellow",
+   "stone": "Diamonds",
+   "stoneKind": "diamond",
+   "style": "drop",
+   "sizes": [
+    "One size"
+   ],
+   "availability": "low-stock",
+   "stock": 2,
+   "rating": 4.9,
+   "reviews": 44,
+   "featured": true,
+   "newArrival": false,
+   "bestseller": true,
+   "views": [
+    {
+     "key": "main",
+     "label": "Studio view",
+     "bg": "noir",
+     "file": "seraphine-drop-earrings-1"
+    },
+    {
+     "key": "macro",
+     "label": "Close detail",
+     "bg": "sand",
+     "file": "seraphine-drop-earrings-2"
+    },
+    {
+     "key": "flat",
+     "label": "Styled flat lay",
+     "bg": "silk",
+     "file": "seraphine-drop-earrings-3"
+    }
+   ]
+  },
+  {
+   "id": "LM1020",
+   "slug": "pearl-drop-earrings",
+   "name": "Pearl Drop Earrings",
+   "category": "Earrings",
+   "collection": "gold",
+   "collections": [
+    "earrings",
+    "gold"
+   ],
+   "price": 12499,
+   "compareAtPrice": null,
+   "description": "Cultured pearls on a simple gold drop. Easy to wear, hard to put down.",
+   "material": "18K Yellow Gold",
+   "metal": "yellow",
+   "stone": "Cultured Pearl",
+   "stoneKind": "pearl",
+   "style": "drop",
+   "sizes": [
+    "One size"
+   ],
+   "availability": "in-stock",
+   "stock": 11,
+   "rating": 4.7,
+   "reviews": 81,
+   "featured": false,
+   "newArrival": false,
+   "bestseller": true,
+   "views": [
+    {
+     "key": "main",
+     "label": "Studio view",
+     "bg": "sand",
+     "file": "pearl-drop-earrings-1"
+    },
+    {
+     "key": "macro",
+     "label": "Close detail",
+     "bg": "stone",
+     "file": "pearl-drop-earrings-2"
+    },
+    {
+     "key": "flat",
+     "label": "Styled flat lay",
+     "bg": "ivory",
+     "file": "pearl-drop-earrings-3"
+    }
+   ]
+  },
+  {
+   "id": "LM1021",
+   "slug": "rani-chandelier-earrings",
+   "name": "Rani Chandelier Earrings",
+   "category": "Earrings",
+   "collection": "bridal",
+   "collections": [
+    "earrings",
+    "bridal",
+    "diamond",
+    "gold"
+   ],
+   "price": 134000,
+   "compareAtPrice": null,
+   "description": "Tiered diamond drops in a graceful chandelier shape.",
+   "material": "18K Yellow Gold",
+   "metal": "yellow",
+   "stone": "Diamonds",
+   "stoneKind": "diamond",
+   "style": "chandelier",
+   "sizes": [
+    "One size"
+   ],
+   "availability": "in-stock",
+   "stock": 4,
+   "rating": 4.5,
+   "reviews": 118,
+   "featured": true,
+   "newArrival": false,
+   "bestseller": false,
+   "views": [
+    {
+     "key": "main",
+     "label": "Studio view",
+     "bg": "noir",
+     "file": "rani-chandelier-earrings-1"
+    },
+    {
+     "key": "macro",
+     "label": "Close detail",
+     "bg": "sand",
+     "file": "rani-chandelier-earrings-2"
+    },
+    {
+     "key": "flat",
+     "label": "Styled flat lay",
+     "bg": "silk",
+     "file": "rani-chandelier-earrings-3"
+    }
+   ]
+  },
+  {
+   "id": "LM1022",
+   "slug": "brilliance-studs",
+   "name": "Brilliance Studs",
+   "category": "Earrings",
+   "collection": "diamond",
+   "collections": [
+    "earrings",
+    "diamond"
+   ],
+   "price": 34500,
+   "compareAtPrice": null,
+   "description": "Round brilliant diamonds in a four-prong setting. The pair you will wear every day.",
+   "material": "18K White Gold",
+   "metal": "white",
+   "stone": "Diamonds",
+   "stoneKind": "diamond",
+   "style": "studs",
+   "sizes": [
+    "One size"
+   ],
+   "availability": "in-stock",
+   "stock": 11,
+   "rating": 4.8,
+   "reviews": 155,
+   "featured": false,
+   "newArrival": false,
+   "bestseller": true,
+   "views": [
+    {
+     "key": "main",
+     "label": "Studio view",
+     "bg": "ivory",
+     "file": "brilliance-studs-1"
+    },
+    {
+     "key": "macro",
+     "label": "Close detail",
+     "bg": "sand",
+     "file": "brilliance-studs-2"
+    },
+    {
+     "key": "flat",
+     "label": "Styled flat lay",
+     "bg": "blush",
+     "file": "brilliance-studs-3"
+    }
+   ]
+  },
+  {
+   "id": "LM1023",
+   "slug": "isha-emerald-studs",
+   "name": "Isha Emerald Studs",
+   "category": "Earrings",
+   "collection": "gold",
+   "collections": [
+    "earrings",
+    "gold",
+    "new-arrivals"
+   ],
+   "price": 41500,
+   "compareAtPrice": null,
+   "description": "Emerald studs in yellow gold with a polished finish.",
+   "material": "18K Yellow Gold",
+   "metal": "yellow",
+   "stone": "Emerald",
+   "stoneKind": "emerald",
+   "style": "studs",
+   "sizes": [
+    "One size"
+   ],
+   "availability": "in-stock",
+   "stock": 4,
+   "rating": 4.6,
+   "reviews": 32,
+   "featured": false,
+   "newArrival": true,
+   "bestseller": false,
+   "views": [
+    {
+     "key": "main",
+     "label": "Studio view",
+     "bg": "noir",
+     "file": "isha-emerald-studs-1"
+    },
+    {
+     "key": "macro",
+     "label": "Close detail",
+     "bg": "sand",
+     "file": "isha-emerald-studs-2"
+    },
+    {
+     "key": "flat",
+     "label": "Styled flat lay",
+     "bg": "silk",
+     "file": "isha-emerald-studs-3"
+    }
+   ]
+  },
+  {
+   "id": "LM1024",
+   "slug": "halo-hoops",
+   "name": "Halo Hoops",
+   "category": "Earrings",
+   "collection": "diamond",
+   "collections": [
+    "earrings",
+    "diamond"
+   ],
+   "price": 56000,
+   "compareAtPrice": null,
+   "description": "Rose gold hoops set with a line of pavé diamonds.",
+   "material": "18K Rose Gold",
+   "metal": "rose",
+   "stone": "Diamonds",
+   "stoneKind": "diamond",
+   "style": "hoops",
+   "sizes": [
+    "One size"
+   ],
+   "availability": "in-stock",
+   "stock": 11,
+   "rating": 4.9,
+   "reviews": 69,
+   "featured": false,
+   "newArrival": false,
+   "bestseller": false,
+   "views": [
+    {
+     "key": "main",
+     "label": "Studio view",
+     "bg": "blush",
+     "file": "halo-hoops-1"
+    },
+    {
+     "key": "macro",
+     "label": "Close detail",
+     "bg": "ivory",
+     "file": "halo-hoops-2"
+    },
+    {
+     "key": "flat",
+     "label": "Styled flat lay",
+     "bg": "silk",
+     "file": "halo-hoops-3"
+    }
+   ]
+  },
+  {
+   "id": "LM1025",
+   "slug": "tara-ruby-drops",
+   "name": "Tara Ruby Drops",
+   "category": "Earrings",
+   "collection": "new-arrivals",
+   "collections": [
+    "earrings",
+    "new-arrivals"
+   ],
+   "price": 72500,
+   "compareAtPrice": null,
+   "description": "Ruby drops in rose gold, with a diamond top.",
+   "material": "18K Rose Gold",
+   "metal": "rose",
+   "stone": "Ruby",
+   "stoneKind": "ruby",
+   "style": "drop",
+   "sizes": [
+    "One size"
+   ],
+   "availability": "in-stock",
+   "stock": 4,
+   "rating": 4.7,
+   "reviews": 106,
+   "featured": false,
+   "newArrival": true,
+   "bestseller": false,
+   "views": [
+    {
+     "key": "main",
+     "label": "Studio view",
+     "bg": "stone",
+     "file": "tara-ruby-drops-1"
+    },
+    {
+     "key": "macro",
+     "label": "Close detail",
+     "bg": "noir",
+     "file": "tara-ruby-drops-2"
+    },
+    {
+     "key": "flat",
+     "label": "Styled flat lay",
+     "bg": "ivory",
+     "file": "tara-ruby-drops-3"
+    }
+   ]
+  },
+  {
+   "id": "LM1026",
+   "slug": "nila-sapphire-studs",
+   "name": "Nila Sapphire Studs",
+   "category": "Earrings",
+   "collection": "earrings",
+   "collections": [
+    "earrings"
+   ],
+   "price": 39000,
+   "compareAtPrice": null,
+   "description": "Blue sapphire studs in white gold.",
+   "material": "18K White Gold",
+   "metal": "white",
+   "stone": "Blue Sapphire",
+   "stoneKind": "sapphire",
+   "style": "studs",
+   "sizes": [
+    "One size"
+   ],
+   "availability": "in-stock",
+   "stock": 11,
+   "rating": 4.5,
+   "reviews": 143,
+   "featured": false,
+   "newArrival": false,
+   "bestseller": false,
+   "views": [
+    {
+     "key": "main",
+     "label": "Studio view",
+     "bg": "stone",
+     "file": "nila-sapphire-studs-1"
+    },
+    {
+     "key": "macro",
+     "label": "Close detail",
+     "bg": "noir",
+     "file": "nila-sapphire-studs-2"
+    },
+    {
+     "key": "flat",
+     "label": "Styled flat lay",
+     "bg": "ivory",
+     "file": "nila-sapphire-studs-3"
+    }
+   ]
+  },
+  {
+   "id": "LM1027",
+   "slug": "etoile-diamond-bracelet",
+   "name": "Étoile Diamond Bracelet",
+   "category": "Bracelets",
+   "collection": "diamond",
+   "collections": [
+    "bracelets",
+    "diamond"
+   ],
+   "price": 96500,
+   "compareAtPrice": null,
+   "description": "A flexible line of diamonds that sits close to the wrist.",
+   "material": "18K White Gold",
+   "metal": "white",
+   "stone": "Diamonds",
+   "stoneKind": "diamond",
+   "style": "tennis",
+   "sizes": [
+    "2.4",
+    "2.6",
+    "2.8"
+   ],
+   "availability": "in-stock",
+   "stock": 4,
+   "rating": 4.8,
+   "reviews": 20,
+   "featured": true,
+   "newArrival": false,
+   "bestseller": false,
+   "views": [
+    {
+     "key": "main",
+     "label": "Studio view",
+     "bg": "ivory",
+     "file": "etoile-diamond-bracelet-1"
+    },
+    {
+     "key": "macro",
+     "label": "Close detail",
+     "bg": "sand",
+     "file": "etoile-diamond-bracelet-2"
+    },
+    {
+     "key": "flat",
+     "label": "Styled flat lay",
+     "bg": "blush",
+     "file": "etoile-diamond-bracelet-3"
+    }
+   ]
+  },
+  {
+   "id": "LM1028",
+   "slug": "rose-tennis-bracelet",
+   "name": "Rose Tennis Bracelet",
+   "category": "Bracelets",
+   "collection": "diamond",
+   "collections": [
+    "bracelets",
+    "diamond",
+    "new-arrivals"
+   ],
+   "price": 84000,
+   "compareAtPrice": null,
+   "description": "The classic tennis bracelet, in rose gold.",
+   "material": "18K Rose Gold",
+   "metal": "rose",
+   "stone": "Diamonds",
+   "stoneKind": "diamond",
+   "style": "tennis",
+   "sizes": [
+    "2.4",
+    "2.6",
+    "2.8"
+   ],
+   "availability": "in-stock",
+   "stock": 11,
+   "rating": 4.6,
+   "reviews": 57,
+   "featured": false,
+   "newArrival": true,
+   "bestseller": false,
+   "views": [
+    {
+     "key": "main",
+     "label": "Studio view",
+     "bg": "blush",
+     "file": "rose-tennis-bracelet-1"
+    },
+    {
+     "key": "macro",
+     "label": "Close detail",
+     "bg": "ivory",
+     "file": "rose-tennis-bracelet-2"
+    },
+    {
+     "key": "flat",
+     "label": "Styled flat lay",
+     "bg": "silk",
+     "file": "rose-tennis-bracelet-3"
+    }
+   ]
+  },
+  {
+   "id": "LM1029",
+   "slug": "savi-gold-bangle",
+   "name": "Savi Gold Bangle",
+   "category": "Bracelets",
+   "collection": "gold",
+   "collections": [
+    "bracelets",
+    "gold"
+   ],
+   "price": 72000,
+   "compareAtPrice": null,
+   "description": "A solid yellow gold bangle with a hand-polished finish.",
+   "material": "18K Yellow Gold",
+   "metal": "yellow",
+   "stone": "Polished gold",
+   "stoneKind": "none",
+   "style": "bangle",
+   "sizes": [
+    "2.4",
+    "2.6",
+    "2.8"
+   ],
+   "availability": "in-stock",
+   "stock": 4,
+   "rating": 4.9,
+   "reviews": 94,
+   "featured": false,
+   "newArrival": false,
+   "bestseller": true,
+   "views": [
+    {
+     "key": "main",
+     "label": "Studio view",
+     "bg": "sand",
+     "file": "savi-gold-bangle-1"
+    },
+    {
+     "key": "macro",
+     "label": "Close detail",
+     "bg": "stone",
+     "file": "savi-gold-bangle-2"
+    },
+    {
+     "key": "flat",
+     "label": "Styled flat lay",
+     "bg": "ivory",
+     "file": "savi-gold-bangle-3"
+    }
+   ]
+  },
+  {
+   "id": "LM1030",
+   "slug": "kaya-cuff",
+   "name": "Kaya Cuff",
+   "category": "Bracelets",
+   "collection": "gold",
+   "collections": [
+    "bracelets",
+    "gold"
+   ],
+   "price": 45500,
+   "compareAtPrice": null,
+   "description": "An open cuff in rose gold, sculpted to rest on the wrist.",
+   "material": "18K Rose Gold",
+   "metal": "rose",
+   "stone": "Polished gold",
+   "stoneKind": "none",
+   "style": "cuff",
+   "sizes": [
+    "2.4",
+    "2.6",
+    "2.8"
+   ],
+   "availability": "low-stock",
+   "stock": 2,
+   "rating": 4.7,
+   "reviews": 131,
+   "featured": false,
+   "newArrival": false,
+   "bestseller": false,
+   "views": [
+    {
+     "key": "main",
+     "label": "Studio view",
+     "bg": "stone",
+     "file": "kaya-cuff-1"
+    },
+    {
+     "key": "macro",
+     "label": "Close detail",
+     "bg": "noir",
+     "file": "kaya-cuff-2"
+    },
+    {
+     "key": "flat",
+     "label": "Styled flat lay",
+     "bg": "ivory",
+     "file": "kaya-cuff-3"
+    }
+   ]
+  },
+  {
+   "id": "LM1031",
+   "slug": "mira-emerald-bracelet",
+   "name": "Mira Emerald Bracelet",
+   "category": "Bracelets",
+   "collection": "gold",
+   "collections": [
+    "bracelets",
+    "gold",
+    "new-arrivals"
+   ],
+   "price": 91000,
+   "compareAtPrice": null,
+   "description": "Emeralds linked in yellow gold.",
+   "material": "18K Yellow Gold",
+   "metal": "yellow",
+   "stone": "Emerald",
+   "stoneKind": "emerald",
+   "style": "tennis",
+   "sizes": [
+    "2.4",
+    "2.6",
+    "2.8"
+   ],
+   "availability": "in-stock",
+   "stock": 4,
+   "rating": 4.5,
+   "reviews": 168,
+   "featured": false,
+   "newArrival": true,
+   "bestseller": false,
+   "views": [
+    {
+     "key": "main",
+     "label": "Studio view",
+     "bg": "noir",
+     "file": "mira-emerald-bracelet-1"
+    },
+    {
+     "key": "macro",
+     "label": "Close detail",
+     "bg": "sand",
+     "file": "mira-emerald-bracelet-2"
+    },
+    {
+     "key": "flat",
+     "label": "Styled flat lay",
+     "bg": "silk",
+     "file": "mira-emerald-bracelet-3"
+    }
+   ]
+  },
+  {
+   "id": "LM1032",
+   "slug": "ananya-bridal-set",
+   "name": "Ananya Bridal Set",
+   "category": "Sets",
+   "collection": "bridal",
+   "collections": [
+    "sets",
+    "bridal",
+    "diamond",
+    "gold"
+   ],
+   "price": 385000,
+   "compareAtPrice": null,
+   "description": "A collar necklace and chandelier earrings, designed together.",
+   "material": "18K Yellow Gold",
+   "metal": "yellow",
+   "stone": "Diamonds",
+   "stoneKind": "diamond",
+   "style": "set-collar",
+   "sizes": [
+    "One size"
+   ],
+   "availability": "in-stock",
+   "stock": 11,
+   "rating": 4.8,
+   "reviews": 45,
+   "featured": true,
+   "newArrival": false,
+   "bestseller": false,
+   "views": [
+    {
+     "key": "main",
+     "label": "Studio view",
+     "bg": "noir",
+     "file": "ananya-bridal-set-1"
+    },
+    {
+     "key": "macro",
+     "label": "Close detail",
+     "bg": "sand",
+     "file": "ananya-bridal-set-2"
+    },
+    {
+     "key": "flat",
+     "label": "Styled flat lay",
+     "bg": "silk",
+     "file": "ananya-bridal-set-3"
+    }
+   ]
+  },
+  {
+   "id": "LM1033",
+   "slug": "devika-emerald-bridal-set",
+   "name": "Devika Emerald Bridal Set",
+   "category": "Sets",
+   "collection": "bridal",
+   "collections": [
+    "sets",
+    "bridal",
+    "gold"
+   ],
+   "price": 312000,
+   "compareAtPrice": null,
+   "description": "Emerald and diamond necklace with matching drop earrings.",
+   "material": "18K Yellow Gold",
+   "metal": "yellow",
+   "stone": "Emerald",
+   "stoneKind": "emerald",
+   "style": "set-collar",
+   "sizes": [
+    "One size"
+   ],
+   "availability": "in-stock",
+   "stock": 4,
+   "rating": 4.6,
+   "reviews": 82,
+   "featured": false,
+   "newArrival": false,
+   "bestseller": false,
+   "views": [
+    {
+     "key": "main",
+     "label": "Studio view",
+     "bg": "noir",
+     "file": "devika-emerald-bridal-set-1"
+    },
+    {
+     "key": "macro",
+     "label": "Close detail",
+     "bg": "sand",
+     "file": "devika-emerald-bridal-set-2"
+    },
+    {
+     "key": "flat",
+     "label": "Styled flat lay",
+     "bg": "silk",
+     "file": "devika-emerald-bridal-set-3"
+    }
+   ]
+  },
+  {
+   "id": "LM1034",
+   "slug": "priya-diamond-set",
+   "name": "Priya Diamond Set",
+   "category": "Sets",
+   "collection": "bridal",
+   "collections": [
+    "sets",
+    "bridal",
+    "diamond"
+   ],
+   "price": 198000,
+   "compareAtPrice": null,
+   "description": "A station necklace with matching drop earrings in white gold.",
+   "material": "18K White Gold",
+   "metal": "white",
+   "stone": "Diamonds",
+   "stoneKind": "diamond",
+   "style": "set-station",
+   "sizes": [
+    "One size"
+   ],
+   "availability": "in-stock",
+   "stock": 11,
+   "rating": 4.9,
+   "reviews": 119,
+   "featured": false,
+   "newArrival": false,
+   "bestseller": false,
+   "views": [
+    {
+     "key": "main",
+     "label": "Studio view",
+     "bg": "stone",
+     "file": "priya-diamond-set-1"
+    },
+    {
+     "key": "macro",
+     "label": "Close detail",
+     "bg": "noir",
+     "file": "priya-diamond-set-2"
+    },
+    {
+     "key": "flat",
+     "label": "Styled flat lay",
+     "bg": "ivory",
+     "file": "priya-diamond-set-3"
+    }
+   ]
+  },
+  {
+   "id": "LM1035",
+   "slug": "mehr-pearl-set",
+   "name": "Mehr Pearl Set",
+   "category": "Sets",
+   "collection": "gold",
+   "collections": [
+    "sets",
+    "gold"
+   ],
+   "price": 86000,
+   "compareAtPrice": null,
+   "description": "A pearl pendant and drop earrings, made to be worn together or apart.",
+   "material": "18K Yellow Gold",
+   "metal": "yellow",
+   "stone": "Cultured Pearl",
+   "stoneKind": "pearl",
+   "style": "set-station",
+   "sizes": [
+    "One size"
+   ],
+   "availability": "in-stock",
+   "stock": 4,
+   "rating": 4.7,
+   "reviews": 156,
+   "featured": false,
+   "newArrival": false,
+   "bestseller": false,
+   "views": [
+    {
+     "key": "main",
+     "label": "Studio view",
+     "bg": "sand",
+     "file": "mehr-pearl-set-1"
+    },
+    {
+     "key": "macro",
+     "label": "Close detail",
+     "bg": "stone",
+     "file": "mehr-pearl-set-2"
+    },
+    {
+     "key": "flat",
+     "label": "Styled flat lay",
+     "bg": "ivory",
+     "file": "mehr-pearl-set-3"
+    }
+   ]
+  },
+  {
+   "id": "LM1036",
+   "slug": "rose-reverie-set",
+   "name": "Rose Reverie Set",
+   "category": "Sets",
+   "collection": "new-arrivals",
+   "collections": [
+    "sets",
+    "new-arrivals"
+   ],
+   "price": 124000,
+   "compareAtPrice": null,
+   "description": "Morganite and diamond necklace and earrings in rose gold.",
+   "material": "18K Rose Gold",
+   "metal": "rose",
+   "stone": "Morganite",
+   "stoneKind": "morganite",
+   "style": "set-station",
+   "sizes": [
+    "One size"
+   ],
+   "availability": "in-stock",
+   "stock": 11,
+   "rating": 4.5,
+   "reviews": 33,
+   "featured": false,
+   "newArrival": true,
+   "bestseller": false,
+   "views": [
+    {
+     "key": "main",
+     "label": "Studio view",
+     "bg": "blush",
+     "file": "rose-reverie-set-1"
+    },
+    {
+     "key": "macro",
+     "label": "Close detail",
+     "bg": "ivory",
+     "file": "rose-reverie-set-2"
+    },
+    {
+     "key": "flat",
+     "label": "Styled flat lay",
+     "bg": "silk",
+     "file": "rose-reverie-set-3"
+    }
+   ]
+  }
+ ],
+ "editorial": [
+  {
+   "id": "silk-champagne",
+   "scene": "silk",
+   "pal": "champagne",
+   "alt": "Champagne silk falling in soft folds"
+  },
+  {
+   "id": "silk-noir",
+   "scene": "silk",
+   "pal": "noir",
+   "alt": "Dark silk catching a thin line of warm light"
+  },
+  {
+   "id": "silk-blush",
+   "scene": "silk",
+   "pal": "blush",
+   "alt": "Blush silk with a long soft highlight"
+  },
+  {
+   "id": "macro-diamond",
+   "scene": "macro",
+   "pal": "diamond",
+   "alt": "Macro view of a round brilliant diamond"
+  },
+  {
+   "id": "macro-emerald",
+   "scene": "macro",
+   "pal": "emerald",
+   "alt": "Macro view of a faceted emerald"
+  },
+  {
+   "id": "macro-ruby",
+   "scene": "macro",
+   "pal": "ruby",
+   "alt": "Macro view of a faceted ruby"
+  },
+  {
+   "id": "jewel-box",
+   "scene": "box",
+   "pal": "sand",
+   "alt": "Open jewellery box with a ring on a cushion"
+  },
+  {
+   "id": "showroom-arch",
+   "scene": "arch",
+   "pal": "sand",
+   "alt": "Arched showroom window with a warm shaft of light"
+  },
+  {
+   "id": "atelier-bench",
+   "scene": "atelier",
+   "pal": "noir",
+   "alt": "Goldsmith bench with a ring mandrel, loupe and tools"
+  },
+  {
+   "id": "gem-trays",
+   "scene": "trays",
+   "pal": "noir",
+   "alt": "Trays of loose diamonds and coloured stones on velvet"
+  },
+  {
+   "id": "gold-bars",
+   "scene": "gold",
+   "pal": "noir",
+   "alt": "Bars of fine gold stacked in warm light"
+  },
+  {
+   "id": "pearl-strand",
+   "scene": "pearls",
+   "pal": "sand",
+   "alt": "A strand of cultured pearls draped over stone"
+  },
+  {
+   "id": "plinth-ring",
+   "scene": "plinth",
+   "pal": "ivory",
+   "alt": "A ring on a stone plinth in a quiet gallery"
+  },
+  {
+   "id": "vitrine",
+   "scene": "vitrine",
+   "pal": "noir",
+   "alt": "A glass display case lit from above"
+  }
+ ]
+}
